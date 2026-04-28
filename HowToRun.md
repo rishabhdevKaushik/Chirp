@@ -14,4 +14,4 @@
 
 ### Note: You must run backend and frontend at same time.
 
-Now you can open shown link from frontend terminal.
+Now you can the open shown link from frontend terminal.
