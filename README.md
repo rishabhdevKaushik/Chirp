@@ -1,8 +1,8 @@
-Project Title -> Chirp – A Real-Time Social Media Interaction Platform
+PROJECT TITLE -> Chirp - A Real-Time Social Media Interaction Platform
 
-Type -> Copyright
+TYPE -> Copyright
 
-
+TEAM MEMBERS:
  
 Rishabhdev -> 2210992156 -> rishabhdev2156.be22@chitkara.edu.in
 
@@ -12,11 +12,11 @@ Rhythm Goyal -> 2210992147 -> rhythm2147.be22@chitkara.edu.in
 
 Ayush -> 2210991418 -> ayush1418.be22@chitkara.edu.in
 
-Dr. Shikha Tuteja(Mentor) -> shikha.1290@chitkara.edu.in
+Dr. Shikha Tuteja(MENTOR) -> shikha.1290@chitkara.edu.in
 
 
 
-Current Status -> Debugging
+CURRENT STATUS -> Debugging
 
 
 
