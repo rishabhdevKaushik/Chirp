@@ -18,8 +18,8 @@ Copyright
 
 Debugging
 
-#### Check [How to Run](/HowToRun.md/)
+#### Check [How to Run](/source_code/HowToRun.md)
 
-#### Check [Project Report](/ProjectReport.pdf/)
+#### Check [Project Report](/ProjectReport.pdf) and [Presentation](/ProjectPPT.pptx)
 
-#### Check [Presentation](/ProjectPPT.pptx/)
+#### Check [Form XII](/FORM_XIV.pdf) and [Copyright Receipt](/Copyright_Receipt.pdf)
